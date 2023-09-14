@@ -1,5 +1,5 @@
 # Structure-Preserving Joint Non-negative Tensor Factorization
- This respository implements structure preserving constrained factorization of tensors. Kindly add path to the toolbox dependencies before running the JNTF_code.m file.
+ This respository implements structure preserving constrained factorization of tensors. Kindly add path to the toolbox dependencies and the datasets before running the JNTF_code.m file.
 # Citation
 ﻿@Article{Puliyanda2021,
 author={Puliyanda, Anjana
